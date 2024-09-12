@@ -1,2 +1,1 @@
-# datacamp-ds-10-eda-python
-EDA + Python
+# Chapter 10. Exploratory Data Analysis in Python
